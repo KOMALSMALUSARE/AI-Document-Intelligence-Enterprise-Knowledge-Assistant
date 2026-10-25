@@ -15,8 +15,8 @@ Result: Chatbot -> Knowledge Base.
 Made my PDF Reader Intelligent.
 
 Steps:
-1. Try normal text extraction first
-2. If text < 50 chars -> Scanned PDF detected
-3. Auto-switch to PyMuPDF to read scanned images
+1. Try normal text extraction first.
+2. If text < 50 chars -> Scanned PDF detected.
+3. Auto-switch to PyMuPDF to read scanned images.
 
-Result: Now handles both normal & scanned PDFs
+Result: Now handles both normal & scanned PDFs.
